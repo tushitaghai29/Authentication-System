@@ -1,9 +1,9 @@
 # Authentication-System
 
-Hey
+Hey!
 This is a basic Django project to make an Authentication system with the following features:
 
-1. I've linked the proejct to my SQL database after creating a db consisting of a table named Person which will be used to store user information. The fields in Person table can be checked through models.py.
+1. I've linked the project to my SQL database after creating a db consisting of a table named Person which will be used to store user information. The fields in Person table can be checked through models.py.
 
 2. I've created 4 APIs with the following function:
 
